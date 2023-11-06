@@ -1,9 +1,9 @@
-#Project Name
-'FARMER'S MARKET ANALYSIS' 📑
+# Project Name
+## 'FARMER'S MARKET ANALYSIS' 📑
 
 
 
-This project dives deep into sales data , unraveling insights critical for sales and profit enhancement.
+This project dives deep into sales data , unraveling insights critical for revenue, sales and profit enhancement.
 
 
 
